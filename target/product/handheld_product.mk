@@ -30,6 +30,7 @@ PRODUCT_PACKAGES += \
     DeskClock \
     Gallery2 \
     Music \
+    PdfViewerGOS \
     preinstalled-packages-platform-handheld-product.xml \
     SettingsIntelligence \
     frameworks-base-overlays
