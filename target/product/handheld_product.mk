@@ -24,7 +24,6 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/media_product.mk)
 PRODUCT_PACKAGES += \
     AppStore \
     Auditor \
-    Browser2 \
     Calendar \
     Camera2 \
     Contacts \
@@ -35,6 +34,7 @@ PRODUCT_PACKAGES += \
     PdfViewerGOS \
     preinstalled-packages-platform-handheld-product.xml \
     SettingsIntelligence \
+    TrichromeChrome \
     frameworks-base-overlays
 
 ifeq ($(LINEAGE_BUILD),)
